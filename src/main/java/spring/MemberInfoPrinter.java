@@ -12,7 +12,7 @@ public class MemberInfoPrinter {
 			return;
 		}
 		printer.print(member);
-		System.out.println();;
+		System.out.println();
 	}
 	public void setMemberDao(MemberDao memberDao) {
 		this.memDao = memberDao;
